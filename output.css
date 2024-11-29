@@ -910,6 +910,10 @@ video {
   font-family: patrick;
 }
 
+.underline{
+  text-decoration: underline;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -1021,6 +1025,11 @@ video {
 .text-\[\#6c757d\] {
   --tw-text-opacity: 1;
   color: rgb(108 117 125 / var(--tw-text-opacity));
+}
+
+.text-\[\#3d4042\] {
+  --tw-text-opacity: 1;
+  color: rgb(61 64 66 / var(--tw-text-opacity));
 }
 
 .text-white {
