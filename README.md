@@ -1,4 +1,4 @@
-# Personal_Website_Tailwind_Project_9
+# Personal_Website
 
 **If you want to see a full responsive personal website with tailwind, be sure to look at my code. I hope you enjoy it! ♥️**       
 
